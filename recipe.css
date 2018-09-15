@@ -1,0 +1,41 @@
+/*class selectors*/
+.title{
+    background-color: #F0F0F0;
+    color: #A4A400;
+    text-decoration: underline;
+    letter-spacing: 0.2em;
+    font-family:'Century Gothic','Futura','Verdana',sans-serif;
+    font-weight: normal;
+    text-align: left;
+	font-size: 18pt;
+}
+.comment{
+    background-color: #FFFFC8;
+    font-style: italic;
+}
+.to-do-list{
+	background-color: white;
+	font-style: normal;
+	list-style-image: url("img/pie_icon.gif");
+}
+
+/* id selector */
+#body{
+    background-color: rgb(255, 255, 255);
+    font-family:'Georgia','Garamond',serif;
+    background-image: url(img/silverware.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    font-size: 11pt;
+    color: #404040;
+}
+#h1-title{
+    text-align: center;
+    font-weight: bold;
+	font-size: 22pt;
+}
+
+/* tap selectors*/
+a{
+    color: #A4A400;
+}
