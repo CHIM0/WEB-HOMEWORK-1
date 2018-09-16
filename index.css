@@ -44,6 +44,9 @@ hr{
 }
 
 /* 食物方块 */
+a{
+    text-decoration: NONE;
+}
 #pie{
     background-image: url(img/pie.jpg);
     background-size: 300px 300px;

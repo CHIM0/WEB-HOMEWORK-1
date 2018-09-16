@@ -25,7 +25,6 @@
     font-family:'Georgia','Garamond',serif;
     background-image: url(img/silverware.jpg);
     background-repeat: repeat;
-    background-attachment: fixed;
     font-size: 11pt;
     color: #404040;
 }
