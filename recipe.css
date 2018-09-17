@@ -24,6 +24,7 @@
     background-color: rgb(255, 255, 255);
     font-family:'Georgia','Garamond',serif;
     background-image: url(img/silverware.jpg);
+    background-attachment: fixed;
     background-repeat: repeat;
     font-size: 11pt;
     color: #404040;
