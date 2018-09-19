@@ -14,7 +14,6 @@
     font-style: italic;
 }
 .to-do-list{
-	background-color: white;
 	font-style: normal;
 	list-style-image: url("img/pie_icon.gif");
 }
